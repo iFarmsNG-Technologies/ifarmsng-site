@@ -1,7 +1,7 @@
-use axum::{response::Html, routing::get, Router};
+use axum::{Router, response::Html, routing::get};
 
 async fn index() -> Html<&'static str> {
-    Html("<h1>iFarmsNG</h1> <p>Rice Farming, powered by iFarmsNG Technology")
+    Html("<h1>iFarmsNG</h1> <p>Rice Farming, powered by iFarmsNG Technology</p>")
 }
 
 #[tokio::main]
