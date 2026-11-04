@@ -1,6 +1,6 @@
 # iFarmsNG Site
 
-Public website for **iFarmsNG Agro Business Technology Ltd**, a CAC-registered Nigerian agribusiness focused on rice production in Benue State.
+Public website for **iFarmsNG Agro Business Technology Ltd**, a CAC-registered Nigerian agribusiness focused on crop production in Benue State.
 
 Built in Rust with [Axum](https://github.com/tokio-rs/axum). Pages are server-rendered HTML, so they stay small and load quickly on slow mobile networks.
 
