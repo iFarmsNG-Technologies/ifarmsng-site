@@ -1,0 +1,33 @@
+ifarmsng-site/
+│
+├── frontend/
+│   └── ifarmsng-web/
+│       ├── src/
+│       │   ├── app/
+│       │   ├── components/
+│       │   ├── hooks/
+│       │   ├── services/
+│       │   └── lib/
+│       ├── public/
+│       └── package.json
+│
+├── backend/
+│   ├── src/
+│   │   ├── main.rs
+│   │   ├── routes/
+│   │   ├── handlers/
+│   │   ├── services/
+│   │   ├── models/
+│   │   ├── repositories/
+│   │   ├── middleware/
+│   │   └── config/
+│   ├── migrations/
+│   └── Cargo.toml
+│
+├── infrastructure/
+│   ├── docker/
+│   └── nginx/
+│
+├── docs/
+│
+└── README.md

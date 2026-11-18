@@ -1,2 +1,8 @@
-/target
+# Rust
+target/
+
+# Next.js
+frontend/ifarmsng-web/out/
+frontend/ifarmsng-web/.next/
+frontend/ifarmsng-web/node_modules/
 .env
